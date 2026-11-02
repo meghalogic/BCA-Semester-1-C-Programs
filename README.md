@@ -12,6 +12,7 @@ I'm using this repository to practise programming fundamentals, organise my cour
 - Pattern printing
 - Prime number checking
 - Arrays and matrices
+- Functions
 
 📁 Repository Structure
 
@@ -20,6 +21,7 @@ I'm using this repository to practise programming fundamentals, organise my cour
 - "03_Loops" — Looping and number-based programs
 - "04_Patterns" — Pattern printing
 - "05_Arrays_and_Matrices" — Arrays and matrices
+- "06_Functions" - Functions
 
 🛠️ Language
 
